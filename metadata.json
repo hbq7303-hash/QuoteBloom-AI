@@ -1,0 +1,6 @@
+{
+  "name": "QuoteBloom AI",
+  "description": "A premium AI-powered quote generator that creates beautiful, shareable quotes based on your chosen niche, mood, or custom idea.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
